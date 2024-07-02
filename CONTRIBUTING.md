@@ -47,7 +47,7 @@ TiDB 中文文档的日常更新特别活跃，相应地，[TiDB 英文文档](h
 
 你也可以查阅 [docs-cn 仓库现有的 Pull Requests](https://github.com/pingcap/docs-cn/pulls) 作为参考。关于提 Pull Request 的详细步骤，请查阅[提交 Pull Request 的详细流程](#提交-pull-request-的详细流程)。
 
-## PR Checklist
+## Pull Request Checklist
 
 在合入 (Merge) PR 之前，请务必检查以下内容：
 
